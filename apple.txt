@@ -3,9 +3,9 @@ is
 a
 good
 technology
-company @branch and is a good hardware company
+company @branch and is a good hardware company 
 the
-ipad
+ipad @branch and ipod iphone imac @master mbp
 is
 a
 bigger @apple's history

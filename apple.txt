@@ -5,7 +5,7 @@ good
 technology
 company @branch and is a good hardware company
 the
-ipad
+ipad @master ipodmini
 is
 a
 bigger @apple's history

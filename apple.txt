@@ -5,11 +5,7 @@ good
 technology
 company @branch and is a good hardware company 
 the
-<<<<<<< HEAD
-ipad @master ipodmini
-=======
-ipad @branch and ipod iphone imac @master mbp
->>>>>>> hot_fix
+ipad @branch and ipod iphone imac @master mbp ipodmini
 is
 a
 bigger @apple's history
